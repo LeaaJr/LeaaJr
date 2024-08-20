@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 
 
-![github-user-contribution](https://github.com/user-attachments/assets/9d3a7d52-18fd-4387-8860-29d811907445)
+[![github-user-contribution](https://github.com/user-attachments/assets/9d3a7d52-18fd-4387-8860-29d811907445)](https://github.com/LeaaJr/LeaaJr/issues/2#issue-2475759579)
 
 
 
