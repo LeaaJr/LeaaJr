@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### Top Langs
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeaaJr&show_icons=true&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaaJr&layout=compact&theme=dark)
